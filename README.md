@@ -1,6 +1,3 @@
-
-
-```markdown
 # 3D Custom Shirt
 
 Developed a dynamic web application that merges React, Three.js, and React Three Fiber with DALL·E AI's image generation, enabling users to design custom t-shirt graphics. This app guides users through the essentials of 3D modeling with Three.js, integrating these models into React with React Three Fiber, and styling with TailwindCSS for a streamlined design. Framer Motion adds captivating animations, enriching user interaction.
@@ -34,19 +31,19 @@ git clone https://github.com/your-repository/3D-Custom-Shirt.git
 
 
 2. Navigate to the project directory:
-```bash
+
 cd 3D-Custom-Shirt
-```
+
 
 3. Install dependencies:
-```bash
+
 npm install
-```
+
 
 4. Start the development server:
-```bash
+
 npm start
-```
+
 
 The application will be available at `http://localhost:3000`.
 
