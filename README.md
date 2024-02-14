@@ -17,12 +17,12 @@ Developed a dynamic web application that merges React, Three.js, and React Three
 
 ## Features
 
-- **3D Model Customization**: Allows users to adjust and modify 3D t-shirt models in real-time.
-- **Camera Positioning and Lighting**: Teaches users the basics of camera setup and lighting in 3D space for the best visual effects.
-- **Scalable Code Architecture**: Utilizes Higher Order Components (HOCs) for maintaining clean and scalable code.
-- **Integration with DALL·E AI**: Users can generate and apply bespoke images to their t-shirt designs using textual prompts, providing extensive design personalization.
-- **Design Flexibility**: Supports color adjustments, custom file uploads, and the ability to download the final t-shirt design.
-- **Responsive and Optimized**: Ensures a seamless user experience across all devices, highlighting the convergence of 3D graphics and AI in creative design.
+- 3D Model Customization: Allows users to adjust and modify 3D t-shirt models in real-time.
+- Camera Positioning and Lighting: Teaches users the basics of camera setup and lighting in 3D space for the best visual effects.
+- Scalable Code Architecture: Utilizes Higher Order Components (HOCs) for maintaining clean and scalable code.
+- Integration with DALL·E AI: Users can generate and apply bespoke images to their t-shirt designs using textual prompts, providing extensive design personalization.
+- Design Flexibility: Supports color adjustments, custom file uploads, and the ability to download the final t-shirt design.
+- Responsive and Optimized: Ensures a seamless user experience across all devices, highlighting the convergence of 3D graphics and AI in creative design.
 
 ## Getting Started
 
