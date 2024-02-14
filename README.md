@@ -29,9 +29,9 @@ Developed a dynamic web application that merges React, Three.js, and React Three
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-```bash
+
 git clone https://github.com/your-repository/3D-Custom-Shirt.git
-```
+
 
 2. Navigate to the project directory:
 ```bash
